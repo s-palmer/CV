@@ -1,4 +1,7 @@
-## Your Name
+## Sergei Palmer
+
+In a previous life, I was a fresh-faced Chemistry student, eager to pursue a PhD and become a Dr. 5 years at Imperial College London, 1 undergraduate MSci degree in Chemistry, and 1 postgraduate MRes degree in Bioimaging Sciences later, I turned down the offer to stay on and complete that PhD and escaped the world of academia. Deciding I wanted to travel, I did a short 3 month stint at a small digital marketing agency, travelled to Asia for 2 months and then came back to work for said digital marketing agency. 2 months later and I was off again, this time to South America for 3 months, to backpack solo and practice my Spanish language skills. Once again back in London I worked for a small sustainable fashion startup, before returning to the slightly better pay of my previous employers. I did that for another 9 months or so, before deciding that I wanted to experience more than just running Facebook campaigns. And so, naturally, I volunteered with the Voluntary Service Overseas (VSO) and spent 3 months living in small village in Northern Bangladesh. Since returning from Bangladesh in late 2016, and prior to joining Makers Academy, I've worked as a Freelance Marketing Consultant, and have spent the past 3 years of that, living and working remotely from Asia, first in Vietnam for 1 year, and then in Taiwan for 2.
+
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
