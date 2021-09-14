@@ -1,6 +1,6 @@
 ## Sergei Palmer
 
-In a previous life, I was a fresh-faced Chemistry student, eager to pursue a PhD and become a Dr. 5 years at Imperial College London, 1 undergraduate MSci degree in Chemistry, and 1 postgraduate MRes degree in Bioimaging Sciences later, I turned down the offer to stay on and complete that PhD and escaped the world of academia. Deciding I wanted to travel, I did a short 3 month stint at a small digital marketing agency, travelled to Asia for 2 months and then came back to work for said digital marketing agency. 2 months later and I was off again, this time to South America for 3 months, to backpack solo and practice my Spanish language skills. Once again back in London I worked for a small sustainable fashion startup, before returning to the slightly better pay of my previous employers. I did that for another 9 months or so, before deciding that I wanted to experience more than just running Facebook campaigns. And so, naturally, I volunteered with the Voluntary Service Overseas (VSO) and spent 3 months living in small village in Northern Bangladesh. Since returning from Bangladesh in late 2016, and prior to joining Makers Academy, I've worked as a Freelance Marketing Consultant, and have spent the past 3 years of that, living and working remotely from Asia, first in Vietnam for 1 year, and then in Taiwan for 2.
+In a previous life, I was a fresh-faced Chemistry student, eager to pursue a PhD and become a Dr. 5 years at Imperial College London, 1 undergraduate MSci degree in Chemistry, and 1 postgraduate MRes degree in Bioimaging Sciences later, I turned down the offer to stay on and complete that PhD and escaped the world of academia. Deciding I wanted to travel, I did a short 3 month stint at a small digital marketing agency, travelled to Asia for 2 months and then came back to work for said digital marketing agency. 2 months later and I was off again, this time to South America for 3 months, to backpack solo and practice my Spanish language skills. Once again back in London I worked for a small sustainable fashion startup, before returning to the slightly better pay of my previous employers. I did that for another 9 months or so, before deciding that I wanted to experience more than just running Facebook campaigns. And so, naturally, I volunteered with the Voluntary Service Overseas (VSO) and spent 3 months living in small village in Northern Bangladesh. For the past 3 years, I have been living and working remotely from Asia, first in Vietnam for 1 year, and then in Taiwan for 2.
 
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
@@ -14,7 +14,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
+Freelance Marketing Consultant (October 2019 to Current)  
 _Your job title_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
@@ -56,7 +56,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (August 2021 to December 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -65,11 +65,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Imperial College London (2013 to 2014)
 
-- Subject, any specialisms
-- Grade
+- MRes in Bioimaging Sciences, with Russian
+- Distinction
 - Other cool stuff
+
+#### Imperial College London (2009 to 2013)
+
+- MSci in Chemistry, with Spanish
+- Grade: 2:1
+- Imperial College Men's Football Team Committee Member & Team Captain
+- Imperial Chemistry Society WebMaster
 
 #### Any other qualifications
 
