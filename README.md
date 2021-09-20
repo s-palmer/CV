@@ -14,15 +14,46 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-Freelance Marketing Consultant (October 2019 to Current)  
-_Your job title_
+**DGTL Works** (October 2019 to Current)  
+_Freelance Marketing Consultant_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- As a freelance consultant, aside from actually executing campaigns, I had to:
+1. Source clients and pitch for business
+2. Manage client communications
+3. Project management to ensure timely and successful execution
+4. Reporting
+5. Invoicing
+6.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+- Worked with companies such as:
+1. LNDR
+2. Oodee
+3. 
 
-- Any experience relevent to software development
+- Expanded Google Ads division at Spin Brands from spending £x per year to £y per year
+- 
+Any experience, including roles and responsibilities and results achived in bullet point format.
+
+Freelance Marketing Consultant (October 2019 to Current)
+
+**Illuminate Agency** (September 2014 to July 2019)  
+_Account Director_
+
+- Managed key accounts such as:
+  - Bremont Watches
+  - Castore Sportswear
+  - 
+  - 
+  -
+
+- Planned and executed paid advertising campaigns on:
+  - Facebook
+  - Google Ads
+
+- Developed SEO strategies
+- Website migrations
+
+Any experience relevent to software development
 
 ## Skills
 
@@ -37,6 +68,8 @@ Consider skills relevent to software development. Then consider your best skills
 -What did you do? (action)
 
 -What was the result?
+
+- 1. 
 
 
 #### This Skill
@@ -83,5 +116,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
+
+
 
 Any cool stuff that makes you a super part of a software development team
