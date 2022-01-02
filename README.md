@@ -1,54 +1,45 @@
 ## Sergei Palmer
 
-In a previous life, I was a fresh-faced Chemistry student, eager to pursue a PhD and become a Dr. 5 years at Imperial College London, 1 undergraduate MSci degree in Chemistry, and 1 postgraduate MRes degree in Bioimaging Sciences later, I turned down the offer to stay on and complete that PhD and escaped the world of academia. Deciding I wanted to travel, I did a short 3 month stint at a small digital marketing agency, travelled to Asia for 2 months and then came back to work for said digital marketing agency. 2 months later and I was off again, this time to South America for 3 months, to backpack solo and practice my Spanish language skills. Once again back in London I worked for a small sustainable fashion startup, before returning to the slightly better pay of my previous employers. I did that for another 9 months or so, before deciding that I wanted to experience more than just running Facebook campaigns. And so, naturally, I volunteered with the Voluntary Service Overseas (VSO) and spent 3 months living in small village in Northern Bangladesh. For the past 3 years, I have been living and working remotely from Asia, first in Vietnam for 1 year, and then in Taiwan for 2.
+I am a proactive, hard-working and curious software developer with a background in science and marketing, looking for my first role in tech. I recently graduated from Makers Academy and am now eager to use my driven nature & analytical mind to continue developing my skills.
 
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. -->
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                  | Description | Tech/tools        | Try it out |
+| ----------------------| ------------| ----------------- | ----------------- | 
+| Bar.io                | Geolocation-based barfinding app | React, NodeJS, ExpressJS, Google APIs | Link | 
+| Acebook               | Social networking app, implementing CRUD fundamentals | Ruby On Rails, PostgreSQL | Link | 
+| Ad Interest Explorer  | A webapp to explore the audiences that Facebook allows advertisers to use to target users | NextJS, NodeJS, ExpressJS, Facebook Graph API | Link | 
 
 ## Work Experience
 
-**DGTL Works** (October 2019 to Current)  
-_Freelance Marketing Consultant_
+**Self-Employed** (May 2018 to Current)  
+_Digital Consultant_
 
-- As a freelance consultant, aside from actually executing campaigns, I had to:
-1. Source clients and pitch for business
-2. Manage client communications
-3. Project management to ensure timely and successful execution
-4. Reporting
-5. Invoicing
-6.
+* Provide consulting and campaign execution services for several established digital marketing agencies
+* Provide strategic guidance and marketing consultancy services for several small eCommerce brands across SEO and paid advertising
+* Started consulting remotely while living in Asia. As such, I am comfortable with remote working and collaboration across multiple timezones
+* As it is my own business, I am also responsible for:
+  * Client acquisition
+  * Client communication
+  * Project management
+  * Reporting and analysis
+  * Invoicing
 
-- Worked with companies such as:
-1. LNDR
-2. Oodee
-3. 
+Key work:
 
-- Expanded Google Ads division at Spin Brands from spending £x per year to £y per year
-- 
-Any experience, including roles and responsibilities and results achived in bullet point format.
+- Built Google Ads division at a well-known social agency from spending £x per year to £y per year
+- Managed React SEO project to help security tech firm increase their search visibility and resolve Google crawl issues, using React-Helmet and pre-rendering.
 
-Freelance Marketing Consultant (October 2019 to Current)
-
-**Illuminate Agency** (September 2014 to July 2019)  
+**Illuminate Agency** (September 2014 to May 2018)  
 _Account Director_
+  (Sept. 2015 - May 2016 as Digital Marketing Manager, Oct. 2014 - Sept. 2015 as Digital Marketing Analyst)
 
-- Managed key accounts such as:
-  - Bremont Watches
-  - Castore Sportswear
-  - 
-  - 
-  -
-
-- Planned and executed paid advertising campaigns on:
-  - Facebook
-  - Google Ads
+* Experienced in several areas from paid search and paid social to search engine optimisation (SEO)
+* Strategic lead and point of contact for key accounts including Castore Sportswear and Bremont Watches 􏰂 Worked on client acquisition strategies and new business pitches
+* Recruited and managed a team of analysts and account managers
+* Created and executed numerous digital advertising campaigns across a range of channels
 
 - Developed SEO strategies
 - Website migrations
@@ -89,34 +80,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (August 2021 to December 2021)
+#### Makers Academy (August - December 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- e.g Frequently used paring in order to problem solve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jest
 
-#### Imperial College London (2013 to 2014)
+#### Imperial College London (2013 - 2014)
 
 - MRes in Bioimaging Sciences, with Russian
-- Distinction
-- Other cool stuff
+  - Grade Obtained: Distinction
 
-#### Imperial College London (2009 to 2013)
+#### Imperial College London (2009 - 2013)
 
 - MSci in Chemistry, with Spanish
-- Grade: 2:1
-- Imperial College Men's Football Team Committee Member & Team Captain
-- Imperial Chemistry Society WebMaster
+  - Grade Obtained: 2:1
 
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
-
-
 
 Any cool stuff that makes you a super part of a software development team
