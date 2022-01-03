@@ -1,10 +1,16 @@
-## Sergei Palmer
+# Sergei Palmer
 
 I am a proactive, hard-working and ambitious Maker's Academy graduate with a background in science and marketing, looking for my first role as a software developer. Since graduating, I have been enjoying building applications with NextJS, React and Node and I'd love to continue developing my skills further. 
 
+<div align="center">
+
+[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+
+</div>
+
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. -->
 
-## Projects
+# Projects
 
 | Name                  | Description | Tech/tools        | Repo Links | Deployed |
 | ----------------------| ------------| ----------------- | ----------------- | ----------------- | 
@@ -15,7 +21,7 @@ I am a proactive, hard-working and ambitious Maker's Academy graduate with a bac
 
 * Deployment currently uses Heroku's ephemeral filesystem so images are not retained when dynos are replaced approximately once a day as part of normal dyno management. Plan to move file storage to an AWS S3 bucket.
 
-## Professional Experience
+# Experience
 
 **Maker's Academy** (August - December 2021) 
 
@@ -89,22 +95,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
-## Education
+# Education
 
-#### Imperial College London (2013 - 2014)
+### Imperial College London (2013 - 2014)
 
 - MRes in Bioimaging Sciences, with Russian
   - Grade Obtained: Distinction
 
-#### Imperial College London (2009 - 2013)
+### Imperial College London (2009 - 2013)
 
 - MSci in Chemistry, with Spanish
   - Grade Obtained: 2:1
 
-#### Any other qualifications
+### Any other qualifications
 
 Datacamp - Intro to SQL - [Link](https://www.datacamp.com/statement-of-accomplishment/course/cb2db70823ad5e108978addbdf2f9396b2081912)
-## Hobbies
+# Interests
 
 - Travelling (visited 57 countries and completed the Mongol Rally)
 - Learning languages (half-decent Spanish, enough Russian to survive Kyrgyz traffic police, just enough French to buy a metro ticket and the perfect amount of Mandarin learned while living in Taiwan to order an iced brown sugar matcha coffee latte with oat milk)
