@@ -1,12 +1,25 @@
-# Sergei Palmer
+<h1 align="center">Sergei Palmer</h1>
+<p align="center">
+<a href="https://github.com/s-palmer">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" hspace="50" height="42" width="42"></a>
+<a href="https://www.linkedin.com/in/sergei-palmer/">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<a href="mailto: sergeipalmer@protonmail.ch">
+<img src="https://protonmail.com/images/protonmail-logo-square.png" alt="email" hspace="50" height="42" width="42"></a>
+</p>
 
-I am a proactive, hard-working and ambitious Maker's Academy graduate with a background in science and marketing, looking for my first role as a software developer. Since graduating, I have been enjoying building applications with NextJS, React and Node and I'd love to continue developing my skills further. 
+<p align="center">
+I am a proactive, hard-working and ambitious Maker's Academy graduate with a background in science and marketing, looking for my first role as a software developer. Since graduating, I have been enjoying learning more about building applications with NextJS, React and Node. I'm a fast learner and willing to get stuck into learning new stacks and skills.
+
+</p>
 
 <div align="center">
 
-[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) [Education](#education) | [Interests](#interests)
 
 </div>
+
+---
 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. -->
 
@@ -20,6 +33,49 @@ I am a proactive, hard-working and ambitious Maker's Academy graduate with a bac
 | Makers BNB            | Accommodation booking site. Group project built during Week 5 of Maker's Academy. | Ruby, Sinatra, Bootstrap, PostgreSQL | [Makers BNB](https://github.com/s-palmer/makers_bnb) | - |
 
 * Deployment currently uses Heroku's ephemeral filesystem so images are not retained when dynos are replaced approximately once a day as part of normal dyno management. Plan to move file storage to an AWS S3 bucket.
+
+---
+
+# Skills
+
+## Problem Solving
+
+## Analytical
+
+
+<!-- ## Skills
+
+Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+(Using a STAR example Paragraph) Consider the questions below.
+
+-STAR
+-What was the situation/task? (ST)
+
+-How was the skill used?
+
+-What did you do? (action)
+
+-What was the result?
+
+- 1. 
+
+
+#### This Skill
+
+- Experience
+- Achievements
+- Evidence (STAR)
+
+#### Another Skill
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
+
+---
 
 # Experience
 
@@ -63,37 +119,6 @@ _Account Director_
 * Created and executed digital advertising campaigns across a range of paid marketing channels
 * Developed and executed SEO strategies & campaigns, and consulted on website platform migrations (incl. Drupal to Shopify, Magento to Shopify)
 
-<!-- ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-- 1. 
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 # Education
 
