@@ -57,7 +57,7 @@ _Account Director_
 * Created and executed digital advertising campaigns across a range of paid marketing channels
 * Developed and executed SEO strategies & campaigns, and consulted on website platform migrations (incl. Drupal to Shopify, Magento to Shopify)
 
-## Skills
+<!-- ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -87,7 +87,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 ## Education
 
