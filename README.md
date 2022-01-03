@@ -37,9 +37,15 @@ Key work:
 - Worked with an established social agency to grow their Google Ads team, provide training and increase managed spend from £7,000 per quarter to over £100,000 per quarter
 - Managed React SEO project to help security tech firm increase their search visibility and resolve Google crawl issues, using React-Helmet and pre-rendering.
 
+**Code Your Future** (Jan. 2018 to Aug. 2021)         
+_Marketing Specialist_
+
+_CodeYourFuture is a UK based non-profit organisation that trains some of the most deprived members of society to become web developers and helps them to find work in the tech industry_
+* I started volunteering with CYF in 2018. I have since worked on student recruitment, running campaigns on Google & Facebook to sign up potential students.
+
 **Illuminate Agency** (September 2014 to May 2018)  
 _Account Director_
-  (Sept. 2015 - May 2016 as Digital Marketing Manager, Oct. 2014 - Sept. 2015 as Digital Marketing Analyst)
+  (Oct. 2014 - Sept. 2015 as Digital Marketing Analyst, Sept. 2015 - May 2016 as Digital Marketing Manager)
 
 * Experienced in paid search advertising, paid social media advertising and search engine optimisation (SEO)
 * Strategic lead and point of contact for key accounts including Castore Sportswear and Bremont Watches
@@ -94,8 +100,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
-
+Datacamp - Intro to SQL - [Link](https://www.datacamp.com/statement-of-accomplishment/course/cb2db70823ad5e108978addbdf2f9396b2081912)
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team
