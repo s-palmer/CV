@@ -1,6 +1,6 @@
 ## Sergei Palmer
 
-I am a proactive, hard-working and curious software developer with a background in science and marketing, looking for my first role in tech. I recently graduated from Makers Academy and am now eager to use my driven nature & analytical mind to continue developing my skills.
+I am a proactive, hard-working and ambitious Maker's Academy graduate with a background in science and marketing, looking for my first role as a software developer. Since graduating, I have been enjoying building applications with NextJS, React and Node and I'd love to continue developing my skills further. 
 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. -->
 
@@ -12,39 +12,41 @@ I am a proactive, hard-working and curious software developer with a background 
 | Acebook               | Social networking app, implementing CRUD fundamentals | Ruby On Rails, PostgreSQL | Link | 
 | Ad Interest Explorer  | A webapp to explore the audiences that Facebook allows advertisers to use to target users | NextJS, NodeJS, ExpressJS, Facebook Graph API | Link | 
 
-## Work Experience
+## Professional Experience
 
-**Self-Employed** (May 2018 to Current)  
-_Digital Consultant_
+**Maker's Academy** (August - December 2021) 
 
-* Provide consulting and campaign execution services for several established digital marketing agencies
-* Provide strategic guidance and marketing consultancy services for several small eCommerce brands across SEO and paid advertising
-* Started consulting remotely while living in Asia. As such, I am comfortable with remote working and collaboration across multiple timezones
-* As it is my own business, I am also responsible for:
-  * Client acquisition
-  * Client communication
-  * Project management
-  * Reporting and analysis
-  * Invoicing
+_Maker's Academy is a 16-week intensive coding bootcamp focused on teaching the fundamentals of software engineering with JavaScript & Ruby_
+Whilst at Maker's, I learned:
+- The principles of object-oriented design & test-driven development
+- How to write clean, reliable and maintainable code
+- How to pair-program in the driver-navigator style to problem solve effectively
+- Collaboration on GitHub projects using continuous integration & automated deployment
+- How to debug effectively
+- Skills to help me be confident in learning new technologies
+- Working in an agile development team using XP values
+
+**Self-Employed** (May 2018 to Current)
+
+_For the last 3.5 years, I have run my own small business providing marketing consultancy and campaign execution services for several established marketing agencies & some small DTC brands_
+* Strategic guidance, search engine optimisation and paid advertising channels
+* Worked from Asia for 3 years becoming confident with remote working, communication and collaboration across multiple timezones
 
 Key work:
 
-- Built Google Ads division at a well-known social agency from spending £x per year to £y per year
+- Worked with an established social agency to grow their Google Ads team, provide training and increase managed spend from £7,000 per quarter to over £100,000 per quarter
 - Managed React SEO project to help security tech firm increase their search visibility and resolve Google crawl issues, using React-Helmet and pre-rendering.
 
 **Illuminate Agency** (September 2014 to May 2018)  
 _Account Director_
   (Sept. 2015 - May 2016 as Digital Marketing Manager, Oct. 2014 - Sept. 2015 as Digital Marketing Analyst)
 
-* Experienced in several areas from paid search and paid social to search engine optimisation (SEO)
-* Strategic lead and point of contact for key accounts including Castore Sportswear and Bremont Watches 􏰂 Worked on client acquisition strategies and new business pitches
-* Recruited and managed a team of analysts and account managers
-* Created and executed numerous digital advertising campaigns across a range of channels
-
-- Developed SEO strategies
-- Website migrations
-
-Any experience relevent to software development
+* Experienced in paid search advertising, paid social media advertising and search engine optimisation (SEO)
+* Strategic lead and point of contact for key accounts including Castore Sportswear and Bremont Watches
+* Developed client acquisition strategies and new business pitches
+* Recruited, trained and managed a team of analysts and account managers
+* Created and executed digital advertising campaigns across a range of paid marketing channels
+* Developed and executed SEO strategies & campaigns, and consulted on website platform migrations (incl. Drupal to Shopify, Magento to Shopify)
 
 ## Skills
 
@@ -79,15 +81,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
-
-#### Makers Academy (August - December 2021)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problem solve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jest
 
 #### Imperial College London (2013 - 2014)
 
