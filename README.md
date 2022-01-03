@@ -40,8 +40,22 @@ I am a proactive, hard-working and ambitious Maker's Academy graduate with a bac
 
 ## Problem Solving
 
+### Feedback from external code review
+```
+You interpret test failures and errors really well and are able to glean the important information from the backtrace such as where the error occurred and what the difference is between the expected result and the actual result of your tests and did not spend too much time debugging.
+```
+
+## Time Management
+
+I completed Maker's Academy whilst continuing to work part-time running my small consulting business. This required me to be highly efficient at managing my time, in order to fulfil my responsibilities to clients whilst also completing the full-time bootcamp program.
+
 ## Analytical
 
+## Communication
+
+During my career in marketing, I've spent a lot of time working in client-facing roles, requiring me to communicate frequently, effectively and concisely, providing impactful reports & analysis, technical explanations, presenting new strategies, and (less frequently!) discussing why things haven't gone to plan and how we're going to get back on track. 
+
+<!-- During the Maker's Academy bootcamp, I volunteered to run the end of week cohort retro, moderating the discussion and ensuring everyone was involved and contributing.  -->
 
 <!-- ## Skills
 
