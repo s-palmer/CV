@@ -103,4 +103,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 Datacamp - Intro to SQL - [Link](https://www.datacamp.com/statement-of-accomplishment/course/cb2db70823ad5e108978addbdf2f9396b2081912)
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Travelling (visited 57 countries and completed the Mongol Rally)
+- Learning languages (half-decent Spanish, enough Russian to survive Kyrgyz traffic police, just enough French to buy a metro ticket and the perfect amount of Mandarin learned while living in Taiwan to order an iced brown sugar matcha coffee latte with oat milk)
+- Reading
+- Walking my rescue Taiwanese Mountain dog, Dudu
+- Trying my hand at DIY with my new drill
