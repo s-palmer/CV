@@ -15,7 +15,7 @@ I am a proactive, hard-working and ambitious Maker's Academy graduate with a bac
 
 <div align="center">
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) [Education](#education) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 </div>
 
