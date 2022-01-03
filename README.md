@@ -49,7 +49,13 @@ You interpret test failures and errors really well and are able to glean the imp
 
 I completed Maker's Academy whilst continuing to work part-time running my small consulting business. This required me to be highly efficient at managing my time, in order to fulfil my responsibilities to clients whilst also completing the full-time bootcamp program.
 
+## Fast Learner
+
+The Maker's bootcamp was a fast-paced learning experience, requiring the ability to pick up and implement new concepts and skills quickly. As one example, during one of our software engineering projects, we were given an additional challenge to develop a React frontend for our Ruby on Rails project. Having spent some time during the week completing the React intro course, I was able to turnaround a basic implementation overnight that fetched data from an API and displayed the data in a presentable fashion in React.
+
 ## Analytical
+
+I come from a strong scientific background with two Masters degrees from Imperial College London. This time at Imperial laid a strong foundation for my analytical skills, requiring methodical recording and interpretation of gathered data to come to a factual conclusion. This is something I took into a more commercial environment as part of my marketing job, where looking at traffic, sales and revenue data became crucial to proving our worth, backing up our conclusions and planning future campaigns with clients.
 
 ## Communication
 
