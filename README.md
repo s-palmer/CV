@@ -6,11 +6,14 @@ I am a proactive, hard-working and ambitious Maker's Academy graduate with a bac
 
 ## Projects
 
-| Name                  | Description | Tech/tools        | Try it out |
-| ----------------------| ------------| ----------------- | ----------------- | 
-| Bar.io                | Geolocation-based barfinding app | React, NodeJS, ExpressJS, Google APIs | Link | 
-| Acebook               | Social networking app, implementing CRUD fundamentals | Ruby On Rails, PostgreSQL | Link | 
-| Ad Interest Explorer  | A webapp to explore the audiences that Facebook allows advertisers to use to target users | NextJS, NodeJS, ExpressJS, Facebook Graph API | Link | 
+| Name                  | Description | Tech/tools        | Repo Links | Deployed |
+| ----------------------| ------------| ----------------- | ----------------- | ----------------- | 
+| Bar.io                | Geolocation-based barfinding app. Maker's Academy final group project. | React, NodeJS, ExpressJS, Google APIs | [Frontend](https://github.com/s-palmer/bar.io-frontend) - [Backend](https://github.com/s-palmer/bar.io-backend)  | [Deployed To Heroku](https://bar-io.herokuapp.com/) |
+| Acebook               | Social networking app, implementing CRUD fundamentals. Group project built during Weeks 8-9 of Maker's Academy. | Ruby On Rails, Bootstrap, PostgreSQL | [Acebook](https://github.com/s-palmer/acebook) | [Deployed To Heroku](https://the-acebook.herokuapp.com/)* |
+| Ad Interest Explorer  | A webapp to explore the audiences that Facebook allows advertisers to use to target users | NextJS, Chakra UI, ExpressJS, NodeJS, Facebook Graph API | [Frontend](https://github.com/s-palmer/facebook-interest-api) - [Backend](https://github.com/s-palmer/fb-interest-api-backend) | [Deployed To Vercel](https://fb-interest-api.vercel.app/) |
+| Makers BNB            | Accommodation booking site. Group project built during Week 5 of Maker's Academy. | Ruby, Sinatra, Bootstrap, PostgreSQL | [Makers BNB](https://github.com/s-palmer/makers_bnb) | - |
+
+* Deployment currently uses Heroku's ephemeral filesystem so images are not retained when dynos are replaced approximately once a day as part of normal dyno management. Plan to move file storage to an AWS S3 bucket.
 
 ## Professional Experience
 
