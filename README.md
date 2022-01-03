@@ -41,9 +41,9 @@ I am a proactive, hard-working and ambitious Maker's Academy graduate with a bac
 ## Problem Solving
 
 ### Feedback from external code review
-```
-You interpret test failures and errors really well and are able to glean the important information from the backtrace such as where the error occurred and what the difference is between the expected result and the actual result of your tests and did not spend too much time debugging.
-```
+
+> You interpret test failures and errors really well and are able to glean the important information from the backtrace such as where the error occurred and what the difference is between the expected result and the actual result of your tests and did not spend too much time debugging.
+
 
 ## Time Management
 
