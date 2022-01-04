@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-I am a proactive, hard-working and ambitious Maker's Academy graduate with a background in science and marketing, looking for my first role as a software developer. Since graduating, I have been enjoying learning more about building applications with NextJS, React and Node. I'm a fast learner and willing to get stuck into learning new stacks and skills.
+I am a proactive, hard-working and ambitious Makers Academy graduate with a background in science and marketing, looking for my first role as a software developer. Since graduating, I have been enjoying learning more about building applications with NextJS, React and Node. I'm a fast learner and willing to get stuck into learning new stacks and skills.
 
 </p>
 
@@ -27,10 +27,10 @@ I am a proactive, hard-working and ambitious Maker's Academy graduate with a bac
 
 | Name                  | Description | Tech/tools        | Repo Links | Deployed |
 | ----------------------| ------------| ----------------- | ----------------- | ----------------- | 
-| Bar.io                | Geolocation-based barfinding app. Maker's Academy final group project. | React, NodeJS, ExpressJS, Google APIs | [Frontend](https://github.com/s-palmer/bar.io-frontend) - [Backend](https://github.com/s-palmer/bar.io-backend)  | [Deployed To Heroku](https://bar-io.herokuapp.com/) |
-| Acebook               | Social networking app, implementing CRUD fundamentals. Group project built during Weeks 8-9 of Maker's Academy. | Ruby On Rails, Bootstrap, PostgreSQL | [Acebook](https://github.com/s-palmer/acebook) | [Deployed To Heroku](https://the-acebook.herokuapp.com/)* |
+| Bar.io                | Geolocation-based barfinding app. Makers Academy final group project. | React, NodeJS, ExpressJS, Google APIs | [Frontend](https://github.com/s-palmer/bar.io-frontend) - [Backend](https://github.com/s-palmer/bar.io-backend)  | [Deployed To Heroku](https://bar-io.herokuapp.com/) |
+| Acebook               | Social networking app, implementing CRUD fundamentals. Group project built during Weeks 8-9 of Makers Academy. | Ruby On Rails, Bootstrap, PostgreSQL | [Acebook](https://github.com/s-palmer/acebook) | [Deployed To Heroku](https://the-acebook.herokuapp.com/)* |
 | Ad Interest Explorer  | A webapp to explore the audiences that Facebook allows advertisers to use to target users | NextJS, Chakra UI, ExpressJS, NodeJS, Facebook Graph API | [Frontend](https://github.com/s-palmer/facebook-interest-api) - [Backend](https://github.com/s-palmer/fb-interest-api-backend) | [Deployed To Vercel](https://fb-interest-api.vercel.app/) |
-| Makers BNB            | Accommodation booking site. Group project built during Week 5 of Maker's Academy. | Ruby, Sinatra, Bootstrap, PostgreSQL | [Makers BNB](https://github.com/s-palmer/makers_bnb) | - |
+| Makers BNB            | Accommodation booking site. Group project built during Week 5 of Makers Academy. | Ruby, Sinatra, Bootstrap, PostgreSQL | [Makers BNB](https://github.com/s-palmer/makers_bnb) | - |
 
 * Deployment currently uses Heroku's ephemeral filesystem so images are not retained when dynos are replaced approximately once a day as part of normal dyno management. Plan to move file storage to an AWS S3 bucket.
 
@@ -47,11 +47,11 @@ I am a proactive, hard-working and ambitious Maker's Academy graduate with a bac
 
 ## Time Management
 
-I completed Maker's Academy whilst continuing to work part-time running my small consulting business. This required me to be highly efficient at managing my time, in order to fulfil my responsibilities to clients whilst also completing the full-time bootcamp program.
+I completed Makers Academy whilst continuing to work part-time running my small consulting business. This required me to be highly efficient at managing my time, in order to fulfil my responsibilities to clients whilst also completing the full-time bootcamp program.
 
 ## Fast Learner
 
-The Maker's bootcamp was a fast-paced learning experience, requiring the ability to pick up and implement new concepts and skills quickly. As one example, during one of our software engineering projects, we were given an additional challenge to develop a React frontend for our Ruby on Rails project. Having spent some time during the week completing the React intro course, I was able to turnaround a basic implementation overnight that fetched data from an API and displayed the data in a presentable fashion in React.
+The Makers bootcamp was a fast-paced learning experience, requiring the ability to pick up and implement new concepts and skills quickly. As one example, during one of our software engineering projects, we were given an additional challenge to develop a React frontend for our Ruby on Rails project. Having spent some time during the week completing the React intro course, I was able to turnaround a basic implementation overnight that fetched data from an API and displayed the data in a presentable fashion in React.
 
 ## Analytical
 
@@ -99,10 +99,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 # Experience
 
-**Maker's Academy** (August - December 2021) 
+**Makers Academy** (August - December 2021) 
 
-_Maker's Academy is a 16-week intensive coding bootcamp focused on teaching the fundamentals of software engineering with JavaScript & Ruby_
-Whilst at Maker's, I learned:
+_Makers Academy is a 16-week intensive coding bootcamp focused on teaching the fundamentals of software engineering with JavaScript & Ruby_
+Whilst at Makers, I learned:
 - The principles of object-oriented design & test-driven development
 - How to write clean, reliable and maintainable code
 - How to pair-program in the driver-navigator style to problem solve effectively
