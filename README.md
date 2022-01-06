@@ -144,13 +144,22 @@ _Account Director_
 
 ### Imperial College London (2013 - 2014)
 
-- MRes in Bioimaging Sciences, with Russian
+- MRes in Bioimaging Sciences
   - Grade Obtained: Distinction
+  - Dissertation: Cancer imaging using carbon-11 PET
+  - Awarded a fully funded scholarship from Medical Research Council
+  - Additional modules in Russian
+  - Won prize for best final presentation from Institute of Chemical Biology
 
 ### Imperial College London (2009 - 2013)
 
-- MSci in Chemistry, with Spanish
+- MSci in Chemistry
   - Grade Obtained: 2:1
+  - Dissertation: Novel chelators for PET Imaging using gallium-68
+  - Additional modules in Spanish
+  - Awarded Royal College of Science Full Colours for contributions to the Faculty of Science
+  - Chemistry Society Webmaster (2011/2012)
+  - Member of IC Men's Football Committee and 7th XI Captain
 
 ### Any other qualifications
 
@@ -162,3 +171,4 @@ Datacamp - Intro to SQL - [Link](https://www.datacamp.com/statement-of-accomplis
 - Reading
 - Walking my rescue Taiwanese Mountain dog, Dudu
 - Trying my hand at DIY with my new drill
+
