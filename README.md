@@ -167,7 +167,7 @@ Datacamp - Intro to SQL - [Link](https://www.datacamp.com/statement-of-accomplis
 # Interests
 
 - Travelling (visited 57 countries and completed the Mongol Rally)
-- Learning languages (half-decent Spanish, enough Russian to survive Kyrgyz traffic police, just enough French to buy a metro ticket and the perfect amount of Mandarin learned while living in Taiwan to order an iced brown sugar matcha coffee latte with oat milk)
+- Learning languages (half-decent Spanish, enough Russian to survive Kyrgyz traffic police, basic French to allow me to buy a metro ticket and the perfect amount of Mandarin learned while living in Taiwan to order an iced brown sugar matcha coffee latte with oat milk)
 - Reading
 - Walking my rescue Taiwanese Mountain dog, Dudu
 - Trying my hand at DIY with my new drill
