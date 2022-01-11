@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-I am a proactive, hard-working and ambitious Makers Academy graduate with a background in science and marketing, looking for my first role as a software developer. Since graduating, I have been enjoying learning more about building applications with NextJS, React and Node. I decided to leave a comfortable career in marketing to pursue a new challenge as a developer as I wanted to join a rapidly changing, fast-paced industry, which also gives me the chance to solve problems on a daily basis.
-
+I am a proactive, hard-working and ambitious Makers Academy graduate with a background in science and marketing, looking for my first role as a software developer. I'm a great problem solver and experienced at communicating ideas to stakeholders and end users. I'm a fast learner and passionate about developing my existing skills and learning new ones. I'm currently enjoying working with React and NextJS, as well as learning testing frameworks like Enzyme. I've loved tech since a young age and I'm pursuing a new challenge as a developer as I wanted to join a rapidly changing, fast-paced industry, which gives me the chance to solve interesting problems on a daily basis.
 </p>
+
 
 <div align="center">
 
