@@ -66,7 +66,12 @@ I come from a strong scientific background with two Masters degrees from Imperia
 
 ## Communication
 
-During my career in marketing, I've spent a lot of time working in client-facing roles, requiring me to communicate frequently, effectively and concisely, providing impactful reports & analysis, technical explanations, presenting new strategies, and (less frequently!) discussing why things haven't gone to plan and how we're going to get back on track. 
+During my career in marketing, I've spent a lot of time working in client-facing roles, requiring me to communicate frequently, effectively and concisely, providing impactful reports & analysis, technical explanations, presenting new strategies, and (less frequently!) discussing why things haven't gone to plan and how we're going to get back on track.
+
+### Feedback from external code review
+
+> You sounded out your logic and process so that it was easy to follow you during this review. It was particularly great to hear you reference the RGR cycle while coding, this was a great way to explain your process.
+
 
 <!-- During the Maker's Academy bootcamp, I volunteered to run the end of week cohort retro, moderating the discussion and ensuring everyone was involved and contributing.  -->
 
